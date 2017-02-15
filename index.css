@@ -1,0 +1,71 @@
+body {
+  background-image: url("https://secure.static.tumblr.com/f352992d4ee6edbd9f7c5f53060ccb2f/2ybuvjk/9DZol6bz7/tumblr_static_cuhxt1qsrq8gkcsco0wg4ws8k_2048_v2.jpg");
+}
+
+input {
+	width: 540px;
+	height: 30px;
+	font: inherit;
+    margin-right: 16px;
+    position: relative;
+    padding-left: 15px;
+    background-color: rgba(30, 30, 30, 0.4);
+    border-width: 0px;
+}
+
+input:focus {
+	background-color: #ffffff;
+}
+
+#logo {
+	font: inherit;
+	color: #ffffff;
+	text-align: center;
+}
+
+button {
+	cursor: pointer;
+    font-family: inherit;
+    line-height: 14px;
+    height: 45px;
+    width: 300px;
+    padding: 4px 7px 5px 7px;
+    font-weight: bold;
+    border-width: 0px;
+    border-style: solid;
+    text-decoration: none;
+    border-radius: 2px;
+}
+#signup {
+    color: #ffffff;
+    font-size: 16px;
+    border-color: #4da6ff;
+    background: #4da6ff;
+}
+
+#login {
+    color: #000000;
+    font-size: 16px;
+}
+
+ul {
+	list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+li {
+	font: inherit;
+	float: left;
+	display: block;
+	color: #ffffff;
+	text-align: center;
+	padding: 16px;
+	text-decoration: none;
+}
+
+#links {
+	position: absolute;
+	top: 90%;
+}
