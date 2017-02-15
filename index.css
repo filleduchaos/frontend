@@ -5,7 +5,6 @@ body {
 input {
 	width: 540px;
 	height: 30px;
-	font: inherit;
     margin-right: 16px;
     position: relative;
     padding-left: 15px;
@@ -18,14 +17,12 @@ input:focus {
 }
 
 #logo {
-	font: inherit;
 	color: #ffffff;
 	text-align: center;
 }
 
 button {
 	cursor: pointer;
-    font-family: inherit;
     line-height: 14px;
     height: 45px;
     width: 300px;
@@ -56,7 +53,6 @@ ul {
 }
 
 li {
-	font: inherit;
 	float: left;
 	display: block;
 	color: #ffffff;
